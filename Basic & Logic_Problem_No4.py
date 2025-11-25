@@ -9,5 +9,4 @@ percentage = (total / 500) * 100  # Assuming each subject is out of
 print(f"Total Marks: {total}")
 print(f"Average Marks: {average}")
 print(f"Percentage: {percentage}%")
-100
 
